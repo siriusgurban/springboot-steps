@@ -1,10 +1,10 @@
 package app.entity;
 
-public class User {
+public class Person {
 
     private String name;
 
-    public User(String name) {
+    public Person(String name) {
         this.name = name;
     }
 
