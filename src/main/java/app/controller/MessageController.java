@@ -17,4 +17,5 @@ public class MessageController {
         return "hello_msg_template";
     }
 
+
 }
